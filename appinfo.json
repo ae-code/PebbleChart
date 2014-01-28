@@ -1,0 +1,17 @@
+{
+  "uuid": "7e5b8688-1983-43e2-9477-3854b1dd386b",
+  "shortName": "pebble_chart",
+  "longName": "pebble_chart",
+  "companyName": "AE",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
